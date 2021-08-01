@@ -4,7 +4,7 @@
   :license "MIT License"
   :plugins [[lein-pprint "1.3.2"]]
   :dependencies [[org.clojure/clojure "1.10.2"]
-                 [de.npexception/spacetraders-clj "1.1.0"]]
+                 [de.npexception/spacetraders-clj "1.2.1"]]
   :global-vars {*warn-on-reflection* true}
   :repl-options {:init-ns user}
   :source-paths ["src"]
